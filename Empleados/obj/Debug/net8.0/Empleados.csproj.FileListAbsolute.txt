@@ -1,0 +1,14 @@
+C:\Users\bryan\source\repos\Empleados\bin\Debug\net8.0\Empleados.exe
+C:\Users\bryan\source\repos\Empleados\bin\Debug\net8.0\Empleados.deps.json
+C:\Users\bryan\source\repos\Empleados\bin\Debug\net8.0\Empleados.runtimeconfig.json
+C:\Users\bryan\source\repos\Empleados\bin\Debug\net8.0\Empleados.dll
+C:\Users\bryan\source\repos\Empleados\bin\Debug\net8.0\Empleados.pdb
+C:\Users\bryan\source\repos\Empleados\obj\Debug\net8.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\source\repos\Empleados\obj\Debug\net8.0\Empleados.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\Empleados\obj\Debug\net8.0\Empleados.AssemblyInfo.cs
+C:\Users\bryan\source\repos\Empleados\obj\Debug\net8.0\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Empleados\obj\Debug\net8.0\Empleados.dll
+C:\Users\bryan\source\repos\Empleados\obj\Debug\net8.0\refint\Empleados.dll
+C:\Users\bryan\source\repos\Empleados\obj\Debug\net8.0\Empleados.pdb
+C:\Users\bryan\source\repos\Empleados\obj\Debug\net8.0\Empleados.genruntimeconfig.cache
+C:\Users\bryan\source\repos\Empleados\obj\Debug\net8.0\ref\Empleados.dll
