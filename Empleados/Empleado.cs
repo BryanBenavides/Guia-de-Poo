@@ -60,7 +60,11 @@ namespace Empleados
                 Console.WriteLine("Estado no válido.");
             }
         }
-
-        
+        // Método para aumentar el salario en un porcentaje dado.
+        public void AumentarSalario(decimal porcentaje)
+        {
+            salario += salario * (porcentaje / 100);
+            Console.WriteLine($"El salario de {nombre} ha sido aumentado en un {porcentaje}%");
+        }  
     }
 }
